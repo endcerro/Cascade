@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cascade</string>
+    <string name="button">Play</string>
+    <string name="textview">TextView</string>
+    <string name="diffPrompt">Select the difficulty</string>
+    <string name="ScorePrompt">Score :</string>
+    <string name="score">0</string>
+    <string name="bestScore">0</string>
+    <string name="lv4">Level 4</string>
+    <string name="lv5">Level 5</string>
+    <string name="lv1">Level 1</string>
+    <string name="lv5s">0</string>
+    <string name="lv2s">0</string>
+    <string name="lv2">Level 2</string>
+    <string name="lv1s">0</string>
+    <string name="lv3s">0</string>
+    <string name="lv3">Level 3</string>
+    <string name="lv4s">0</string>
+    <string name="scorebtn">Scores</string>
+</resources>
